@@ -16,3 +16,7 @@ Rule-Based Expert System
 
 ## How to Run
 python main.py
+
+## Poster
+
+![Poster](Poster.jpeg)
